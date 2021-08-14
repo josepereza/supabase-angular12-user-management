@@ -1,6 +1,6 @@
 # Supabase Angular User Management
 
-> This project is based on the Supabase React user management [Quickstart](https://supabase.io/docs/guides/with-react)  
+> This project is based on the Supabase Angular user management [Quickstart](https://supabase.io/docs/guides/with-angular)  
 > To keep it in sync with this Quickstart, architecture choices have been made to facilitate the comparison
 > 
 
